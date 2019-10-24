@@ -1,0 +1,17 @@
+{
+  "id": "left blank",
+  "title": "Guessless Project",
+  "links": {
+	  "PDF": "",
+	  "Slides": "",
+	  "Video": "Eu7Z_zg069Q",
+	  "Code": ""
+  },
+  "tags": ["ml", "ai"],
+  "authors": [
+    "Foo Bar",
+    "Freddy Mercury",
+    "Donald Trump",
+    "Peter Schmeichel"
+  ]
+}
