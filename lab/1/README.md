@@ -9,7 +9,7 @@ Whereas the digital solution (using a micro controller) always output 0V or 5V b
 
 
 
-![](./Exercise/1/led_brightness_no_µc_low.jpg | width=100)
-![](./Exercise/1/led_brightness_no_µc_high.jpg | width=100)
-![](./Exercise/1/led_brightness_with_µc_low.jpg | width=100)
-![](./Exercise/1/led_brightness_with_µc_high.jpg | width=100)
+![](./Exercise/1/led_brightness_no_µc_low.jpg)
+![](./Exercise/1/led_brightness_no_µc_high.jpg)
+![](./Exercise/1/led_brightness_with_µc_low.jpg)
+![](./Exercise/1/led_brightness_with_µc_high.jpg)
