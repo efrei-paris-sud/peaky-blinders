@@ -13,8 +13,3 @@ We have link two diode with two resistance. This set is connect with the NodeMCU
 ## Luminisity reading using LDR
 ![](fritzing_LDR.png)
 ![](ldr_serial.png)
-
-
-## GY-BME280
-
-![](gy_bme.jpg)
