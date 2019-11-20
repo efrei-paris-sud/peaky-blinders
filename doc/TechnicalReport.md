@@ -30,3 +30,5 @@ There will be some kind of centralization where every modules will comunicate wi
 
 The modules will be connected to zigbee capable boards and to relays. They will be some kind of gateway between the main module and the remote modules. The shutters module will have also a distance sensor to detect the proper opening or closing of the shutters.
 The main module will have all the mandatory cards connected to it (Zigbee, IR receiver, Wifi)
+
+test
