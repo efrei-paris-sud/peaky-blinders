@@ -1,6 +1,7 @@
 # project-template
 This is the official template for student's projects
 
+[Go check out the youtube video showing the system working](https://www.youtube.com/watch?v=UP-h3t4w9pY)
 
 ## How to build the app :
 
